@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+<img src="./profile_scan_reveal.gif" width="400">
+
+</div>
 
 <!--
 **Pafos1k/Pafos1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

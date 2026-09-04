@@ -4,7 +4,24 @@
 
 </div>
 
-<!--
+<div align="center">
+
+<img src="./profile_scan_reveal.gif" width="400">
+
+<h2>Software Engineer</h2>
+
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+</div>
+
+---
+
+## ~/ whoami
+
+```bash
+$ cat about.txt<!--
 **Pafos1k/Pafos1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

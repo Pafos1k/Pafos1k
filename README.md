@@ -34,3 +34,6 @@
 <img src="https://komarev.com/ghpvc/?username=Pafos1k&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
+
+
+Hi, I'm **Vladislav Hoila**. I build software somewhere between an idea on a whiteboard and a product people can actually use.

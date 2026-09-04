@@ -3,7 +3,9 @@
 <img src="./profile_scan_reveal.gif" width="400">
 
 </div>
-
+<a href="https://github.com/Pafos1k">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">

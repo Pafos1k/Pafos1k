@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Pafos1k">
 <br> 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Vladislav+Hoila;Software+Engineer;01100011+01101111+01100100+01100101" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF0000&center=true&vCenter=true&width=560&lines=Vladislav+Hoila;Software+Engineer;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 <br>
 <div align="center">
@@ -31,9 +31,34 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Pafos1k&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=Pafos1k&style=flat&color=green&label=profile+views" alt="profile views">
 
 </div>
 
 
 Hi, I'm **Vladislav Hoila**. I build software somewhere between an idea on a whiteboard and a product people can actually use.
+
+<br>
+
+<h2 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,vscode,vercel,css,html,js&perline=8" />
+</p>
+
+<br>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+---

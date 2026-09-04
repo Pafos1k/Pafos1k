@@ -29,14 +29,9 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Pafos1k&style=flat&color=green&label=profile+views" alt="profile views">
+<br>
 
 </div>
-
-
-Hi, I'm **Vladislav Hoila**. I build software somewhere between an idea on a whiteboard and a product people can actually use.
 
 <br>
 
@@ -48,7 +43,6 @@ Hi, I'm **Vladislav Hoila**. I build software somewhere between an idea on a whi
 
 <br>
 
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">

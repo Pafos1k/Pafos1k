@@ -1,17 +1,5 @@
 <div align="center">
 
-<img src="./profile_scan_reveal.gif" width="400">
-
-<h2>Software Engineer</h2>
-
-<a href="https://www.linkedin.com/in/vladislav-hoila/">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:vladislavhoila@gmail.com">Email</a>
-
-</div>
-
-<div align="center">
-
 <a href="https://www.linkedin.com/in/vladislav-hoila/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>

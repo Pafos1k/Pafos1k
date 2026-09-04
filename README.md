@@ -1,19 +1,31 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vladislav-hoila/">
+<img src="./profile_scan_reveal.gif" width="400">
+
+<h2>Software Engineer</h2>
+
+<a href="https://www.linkedin.com/in/vladislav-hoila/">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:vladislavhoila@gmail.com">Email</a>
+
+</div>
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:vladislavhoila@gmail.com">
+<a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
-<a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/Resume-1F8ACB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+<a href="YOUR_CODEFORCES_URL">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
 </a>
 
 <a href="YOUR_LEETCODE_URL">

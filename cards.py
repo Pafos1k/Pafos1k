@@ -1,22 +1,4 @@
-#!/usr/bin/env python3
-"""
-cards.py - render GitHub stat and repo cards as SVGs. Stdlib only.
 
-Replaces github-readme-stats / github-profile-trophy / streak-stats, which are
-shared public instances that go down (503), run out of quota (402) or time out.
-These are files in your own repo, so they render as long as GitHub renders.
-
-    python scripts/cards.py --user gargibhardwaj24 --out assets
-
-Writes <out>/card-stats-{dark,light}.svg plus one card per repo listed in
-assets/projects.json, as <out>/card-<repo>-{dark,light}.svg.
-
-Star and fork counts come from the live API on every run. Descriptions come from
-projects.json when set, otherwise the repo's own GitHub description.
-
-A token in $GITHUB_TOKEN unlocks the contribution and streak numbers (they need
-the GraphQL API). Without one the card still renders, minus those three tiles.
-"""
 
 from __future__ import annotations
 

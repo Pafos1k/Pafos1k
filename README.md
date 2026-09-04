@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile_scan_reveal.gif" width="400">
+<img src="./profile_scan_reveal_slow.gif" width="400">
 
 <a href="https://github.com/Pafos1k">
 <br> 

@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
-<a href="YOUR_CODEFORCES_URL">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/Resume-1F8ACB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
 </a>
 
 <a href="YOUR_LEETCODE_URL">

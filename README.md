@@ -43,6 +43,22 @@
 
 <br>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <img src="./radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+
+</tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
@@ -51,8 +67,3 @@
 
 </div>
 
----
-
-<div align="center">
-
----
